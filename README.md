@@ -1,70 +1,141 @@
-<h1>🚀 Hi, I'm Usama — Your Tech Partner for Smart, Secure, and Scalable Solutions</h1>
+<h1>🚀 Hi, I'm Usama — Your All-in-One IT Solutions Partner</h1>
 
-<p><a href="https://github.com/usamashafiq"><b>Full-Stack Developer</b></a> | 
-   <a href="https://www.linkedin.com/in/usamashafiq/"><b>Cybersecurity Specialist</b></a> | 
-   <b>Cloud DevOps Engineer</b> | 
-   <b>Business Automation & Security Advisor</b>
+<p><strong>Full-Stack Developer</strong> | 
+   <strong>Cybersecurity Expert</strong> | 
+   <strong>Cloud & DevOps Engineer</strong> | 
+   <strong>Business Automation Specialist</strong> | 
+   <strong>IT Infrastructure & Troubleshooting Consultant</strong>
 </p>
 
-<p>I help businesses transform ideas into secure, high-performance software solutions — whether you're a startup founder, enterprise team, or solo entrepreneur looking to scale fast with confidence.</p>
+<p>I help startups, agencies, and enterprises modernize, secure, and support their IT systems. Whether you're launching a new platform, fixing legacy issues, automating operations, or defending against threats — I deliver reliable, scalable, and intelligent solutions tailored to your business needs.</p>
 
 ---
 
-<h2>✅ What I Can Do For You:</h2>
+<h2>🔧 Comprehensive IT Services I Offer</h2>
 
 <ul>
-  <li><b>🌐 Web & Software Development:</b> Custom apps, CRM/ERP integrations, React/Node/MongoDB, APIs</li>
-  <li><b>🛡️ Cybersecurity & Compliance:</b> Threat detection, SIEM setup, file integrity monitoring, endpoint hardening</li>
-  <li><b>☁️ Cloud Architecture & DevOps:</b> AWS / Azure, Docker, Kubernetes, Terraform, CI/CD pipelines</li>
-  <li><b>🤖 Business Automation:</b> Streamline your workflows, automate repetitive tasks, integrate smart systems</li>
-  <li><b>📊 Data-Driven Decisions:</b> Custom dashboards, logs & analytics, actionable insights for smarter business</li>
+  <li><strong>💻 IT Troubleshooting & Tech Support</strong>
+    <ul>
+      <li>Hardware & software issue diagnosis</li>
+      <li>Operating system errors (Windows, Linux, macOS)</li>
+      <li>Performance optimization (slow PCs, network lag, crashes)</li>
+      <li>Driver conflicts, registry errors, and system cleanup</li>
+      <li>Remote desktop support & real-time resolution</li>
+    </ul>
+  </li>
+
+  <li><strong>🛡️ Cybersecurity & Risk Management</strong>
+    <ul>
+      <li>Network hardening, firewall setup, endpoint protection</li>
+      <li>Threat detection, vulnerability scanning, and patching</li>
+      <li>Ransomware prevention & incident response</li>
+      <li>Data encryption, access control, and compliance strategies</li>
+    </ul>
+  </li>
+
+  <li><strong>☁️ Cloud Services (AWS / Azure)</strong>
+    <ul>
+      <li>Cloud migration & architecture setup</li>
+      <li>Server provisioning, backup, scaling</li>
+      <li>S3, EC2, Lambda, Azure Functions, Virtual Networks</li>
+      <li>Cost optimization, usage tracking, and billing efficiency</li>
+    </ul>
+  </li>
+
+  <li><strong>🚀 DevOps, CI/CD & Automation</strong>
+    <ul>
+      <li>Pipeline creation (GitHub Actions, Azure DevOps)</li>
+      <li>Docker & Kubernetes containerization</li>
+      <li>Terraform, Ansible, and infrastructure-as-code deployments</li>
+      <li>Monitoring/logging with Prometheus, Grafana, ELK stack</li>
+    </ul>
+  </li>
+
+  <li><strong>🌐 Web & Software Development</strong>
+    <ul>
+      <li>Full-stack web apps using React, Node.js, Express, MongoDB</li>
+      <li>CRM/ERP integration & custom dashboards</li>
+      <li>API development & third-party integrations (Twilio, Stripe, etc.)</li>
+      <li>Responsive, secure, and user-friendly UIs</li>
+    </ul>
+  </li>
+
+  <li><strong>🔄 Business Automation & Workflow Design</strong>
+    <ul>
+      <li>Automated emails, lead flows, invoicing, client onboarding</li>
+      <li>Power Automate, Zapier, custom script-based automation</li>
+      <li>Google Workspace & Microsoft 365 automations</li>
+    </ul>
+  </li>
+
+  <li><strong>🖥️ System & Network Administration</strong>
+    <ul>
+      <li>Active Directory, DNS/DHCP, Group Policies</li>
+      <li>Virtual machine setup, backups, and recovery plans</li>
+      <li>Wired/wireless network setup & troubleshooting</li>
+      <li>Printer, scanner, VOIP, and office tech configuration</li>
+    </ul>
+  </li>
+
+  <li><strong>📦 Backup, Recovery & Disaster Preparedness</strong>
+    <ul>
+      <li>On-site and cloud-based backups (local/NAS/Azure/AWS)</li>
+      <li>Disaster recovery plan design & testing</li>
+      <li>RTO/RPO strategies tailored for SMBs & enterprises</li>
+    </ul>
+  </li>
+
+  <li><strong>📞 Helpdesk & Managed IT Support</strong>
+    <ul>
+      <li>24/7 remote support options for clients</li>
+      <li>Proactive monitoring, ticketing systems, and user training</li>
+      <li>Monthly plans for small and mid-sized businesses</li>
+    </ul>
+  </li>
 </ul>
 
 ---
 
-<h2>💼 Featured Projects:</h2>
+<h2>💼 Real Solutions Delivered</h2>
 
 <ul>
-  <li><b>🔐 File Integrity Monitoring (PowerShell)</b> – [GitHub](https://github.com/usamashafiq/PowerShell-Integrity-FIM)</li>
-  <li><b>🌍 RDP Attack Source Mapping (GeoIP Automation)</b> – [GitHub](https://github.com/usamashafiq/Sentinel-Lab)</li>
-  <li><b>⚙️ CRM Module Development & Business Workflow Automation</b> – Custom-built (Private)</li>
-  <li><b>📦 Cloud-Native Package Tracking System</b> – [Pathfinding Algorithm App](https://github.com/usamashafiq/Package-Delivery-Pathfinding-Algorithm)</li>
-  <li><b>🧠 AI-Powered Image Analysis Middleware (ML + Azure)</b> – [GitHub](https://github.com/usamashafiq/Image-Analysis-Middleware)</li>
+  <li><strong>Rebuilt entire cloud infrastructure</strong> for a startup in Azure — reduced monthly costs by 35% and improved performance.</li>
+  <li><strong>Created custom DevOps pipeline</strong> for a logistics company — automated testing and deployment, reducing errors by 90%.</li>
+  <li><strong>Mitigated ransomware attack</strong> for a small business in less than 24 hours and implemented a disaster recovery plan.</li>
+  <li><strong>Automated business onboarding system</strong> saving 20+ hours per week using CRM workflows and document automation.</li>
+  <li><strong>Transformed a slow legacy website</strong> into a lightning-fast modern app with React + Node + secure API integrations.</li>
 </ul>
 
 ---
 
-<h2>🎯 Let’s Build Something Amazing Together</h2>
+<h2>🌟 Why Work With Me?</h2>
 
-<p>Whether you're looking to secure your infrastructure, scale a web platform, or automate business operations — I deliver solutions that are fast, scalable, and above all, secure.</p>
-
-<p><b>Let’s talk! I’m currently available for freelance projects, consulting, or full-time opportunities.</b></p>
-
-<h3>📫 Contact Me Directly:</h3>
-
-- 📩 Email: <a href="mailto:usama@example.com">usama@example.com</a>  
-- 💼 LinkedIn: <a href="https://linkedin.com/in/usamashafiq">linkedin.com/in/usamashafiq</a>  
-- 🌐 GitHub: <a href="https://github.com/usamashafiq">github.com/usamashafiq</a>  
-- 📞 Schedule a free discovery call: <i>(Add Calendly/booking link here)</i>
+<ul>
+  <li><strong>Client-Centric:</strong> I adapt to your goals, your tech, and your team.</li>
+  <li><strong>Clear Communication:</strong> You’ll always know what’s going on — no tech fog.</li>
+  <li><strong>Results First:</strong> I solve problems fast, thoroughly, and sustainably.</li>
+  <li><strong>Trusted Partner:</strong> I build long-term relationships, not just deliverables.</li>
+</ul>
 
 ---
 
-<h2>🌟 Testimonials & Endorsements</h2>
-<blockquote><i>"Usama streamlined our cloud infrastructure, automated our onboarding process, and secured our environment — all within a week. Absolutely incredible!"</i> — Client from Dubai, Tech Startup</blockquote>
-<blockquote><i>"The CRM automation saved my team 15+ hours a week. Usama is the real deal!"</i> — Small Business Owner, UK</blockquote>
+<h2>📬 Ready to Solve Your IT Challenges?</h2>
+
+<p>If you're experiencing IT pain points — slow systems, security concerns, unreliable infrastructure, or just need a tech partner who gets it — I’m here to help.</p>
+
+<h3>📞 Contact Me Directly</h3>
+
+<ul>
+  <li>Email: <strong>usamashaifq1913@gmail.com</strong></li>
+  <li>LinkedIn: <a href="https://linkedin.com/in/usamashafiq">linkedin.com/in/usamashafiq</a></li>
+  <li>Phone or WhatsApp: <strong>+923167629731</strong></li>
+  <li>Schedule a Call: <i>Google Meet</i></li>
+</ul>
+
+<p><strong>✅ Available for:</strong> Remote or Onsite Work • One-Time Projects • Long-Term IT Support • Consulting & Training</p>
 
 ---
 
-<h2>🤳 Connect with Me:</h2>
+<h2>Let’s Build, Secure, and Grow — Together</h2>
 
-[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br/><br/>
-
-[twitter]: https://twitter.com/usamashafiq  
-[youtube]: https://www.youtube.com/@usamashafiq  
-[instagram]: https://www.instagram.com/usamashafiq/  
-[linkedin]: https://linkedin.com/in/usamashafiq  
+<p>Technology should empower your business — not slow it down. Let’s work together to make your systems faster, your data safer, and your operations smoother. Reach out today and let’s get started.</p>
