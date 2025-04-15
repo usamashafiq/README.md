@@ -127,7 +127,7 @@
 
 <ul>
   <li>Email: <strong>usamashafiq1913@gmail.com</strong></li>
-  <li>LinkedIn: <a href="https://linkedin.com/in/usama-shafiq">linkedin.com/in/usamashafiq</a></li>
+  <li>LinkedIn: <a href="https://linkedin.com/in/usama-shafiq">linkedin.com/in/usama-shafiq</a></li>
    <li>Fiverr <a href="https://www.fiverr.com/s/akE9j8W">Fiver Usama Shafiq</a></li>
   <li>Phone or WhatsApp: <strong>+923167629731</strong></li>
 </ul>
