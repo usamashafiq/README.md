@@ -1,17 +1,20 @@
-<h1>🚀 Hi, I'm Usama — Your All-in-One IT Solutions Partner</h1>
+<h1>🚀 Hi, We're Your All-in-One IT Solutions Partners</h1>
 
-<p><strong>Full-Stack Developer</strong> | 
-   <strong>Cybersecurity Expert</strong> | 
-   <strong>Cloud & DevOps Engineer</strong> | 
-   <strong>Business Automation Specialist</strong> | 
-   <strong>IT Infrastructure & Troubleshooting Consultant</strong>
+<p><strong>Usama Shafiq & Momina Farooq</strong></p>
+<p>
+  <strong>Full-Stack Developer</strong> |
+  <strong>Cybersecurity Expert</strong> |
+  <strong>Cloud & DevOps Engineer</strong> |
+  <strong>Business Automation Specialist</strong> |
+  <strong>Android & Web Developer</strong> |
+  <strong>Content Writer & SEO Strategist</strong>
 </p>
 
-<p>I help startups, agencies, and enterprises modernize, secure, and support their IT systems. Whether you're launching a new platform, fixing legacy issues, automating operations, or defending against threats — I deliver reliable, scalable, and intelligent solutions tailored to your business needs.</p>
+<p>We help startups, agencies, and enterprises modernize, secure, and support their IT systems. Whether you're launching a new platform, fixing legacy issues, automating operations, enhancing your online presence, or defending against threats — we deliver reliable, scalable, and intelligent solutions tailored to your business needs.</p>
 
----
+<hr>
 
-<h2>🔧 Comprehensive IT Services I Offer</h2>
+<h2>🔧 Comprehensive IT Services We Offer</h2>
 
 <ul>
   <li><strong>💻 IT Troubleshooting & Tech Support</strong>
@@ -51,12 +54,23 @@
     </ul>
   </li>
 
-  <li><strong>🌐 Web & Software Development</strong>
+  <li><strong>🌐 Web, Android & Software Development</strong>
     <ul>
       <li>Full-stack web apps using React, Node.js, Express, MongoDB</li>
+      <li>Android app development (native and hybrid solutions)</li>
       <li>CRM/ERP integration & custom dashboards</li>
       <li>API development & third-party integrations (Twilio, Stripe, etc.)</li>
       <li>Responsive, secure, and user-friendly UIs</li>
+    </ul>
+  </li>
+
+  <li><strong>✍️ Content Writing, SEO & Digital Strategy</strong>
+    <ul>
+      <li>SEO-optimized website content creation</li>
+      <li>Blog writing, article publishing, and content marketing</li>
+      <li>SEO audit and keyword strategy planning</li>
+      <li>On-page and off-page SEO techniques to boost rankings</li>
+      <li>Improving website structure, UX, and conversion rates</li>
     </ul>
   </li>
 
@@ -85,16 +99,32 @@
     </ul>
   </li>
 
+  <li><strong>🏥 Hospital Management System Development</strong>
+    <ul>
+      <li>Custom hospital management systems (HMS) tailored to streamline patient management, billing, inventory, scheduling, and reporting</li>
+      <li>Secure, scalable, and HIPAA-compliant healthcare IT solutions</li>
+    </ul>
+  </li>
+
+  <li><strong>🧠 CodeKids Hub – Tech Academy for Young Innovators</strong>
+    <ul>
+      <li>Empowering children and young learners with coding, website creation, computer skills, and problem-solving</li>
+      <li>Hands-on, fun, and engaging tech education to build the next generation of creators and thinkers</li>
+      <li>No age limit — anyone eager to learn is welcome!</li>
+    </ul>
+  </li>
+
   <li><strong>📞 Helpdesk & Managed IT Support</strong>
     <ul>
       <li>24/7 remote support options for clients</li>
       <li>Proactive monitoring, ticketing systems, and user training</li>
       <li>Monthly plans for small and mid-sized businesses</li>
+      <li>Dedicated Helpdesk support for management systems (CRM, ERP, custom platforms)</li>
     </ul>
   </li>
 </ul>
 
----
+<hr>
 
 <h2>💼 Real Solutions Delivered</h2>
 
@@ -103,39 +133,54 @@
   <li><strong>Created custom DevOps pipeline</strong> for a logistics company — automated testing and deployment, reducing errors by 90%.</li>
   <li><strong>Mitigated ransomware attack</strong> for a small business in less than 24 hours and implemented a disaster recovery plan.</li>
   <li><strong>Automated business onboarding system</strong> saving 20+ hours per week using CRM workflows and document automation.</li>
+  <li><strong>Developed modern Android apps</strong> tailored for startups and small businesses with sleek design and excellent performance.</li>
+  <li><strong>Optimized SEO and content strategies</strong> for multiple clients, significantly boosting organic search rankings and website traffic.</li>
   <li><strong>Transformed a slow legacy website</strong> into a lightning-fast modern app with React + Node + secure API integrations.</li>
+  <li><strong>Delivered custom-built Hospital Management Systems</strong> improving healthcare facility efficiency and patient care.</li>
+  <li><strong>Launched CodeKids Hub</strong> helping young learners worldwide develop real-world tech skills through interactive online classes.</li>
 </ul>
 
----
+<hr>
 
-<h2>🌟 Why Work With Me?</h2>
+<h2>🌟 Why Work With Us?</h2>
 
 <ul>
-  <li><strong>Client-Centric:</strong> I adapt to your goals, your tech, and your team.</li>
+  <li><strong>Client-Centric:</strong> We adapt to your goals, your tech, and your team.</li>
   <li><strong>Clear Communication:</strong> You’ll always know what’s going on — no tech fog.</li>
-  <li><strong>Results First:</strong> I solve problems fast, thoroughly, and sustainably.</li>
-  <li><strong>Trusted Partner:</strong> I build long-term relationships, not just deliverables.</li>
+  <li><strong>Results First:</strong> We solve problems fast, thoroughly, and sustainably.</li>
+  <li><strong>Trusted Partner:</strong> We build long-term relationships, not just deliverables.</li>
 </ul>
 
----
+<hr>
 
 <h2>📬 Ready to Solve Your IT Challenges?</h2>
 
-<p>If you're experiencing IT pain points — slow systems, security concerns, unreliable infrastructure, or just need a tech partner who gets it — I’m here to help.</p>
+<p>If you're experiencing IT pain points — slow systems, security concerns, unreliable infrastructure, poor online visibility, or you need a trusted tech partner — we’re here to help.</p>
 
-<h3>📞 Contact Me Directly</h3>
+<h3>📞 Contact Us Directly</h3>
 
 <ul>
-  <li>Email: <strong>usamashafiq1913@gmail.com</strong></li>
-  <li>LinkedIn: <a href="https://linkedin.com/in/usama-shafiq">linkedin.com/in/usama-shafiq</a></li>
-   <li>Fiverr <a href="https://www.fiverr.com/s/akE9j8W">Fiver Usama Shafiq</a></li>
-  <li>Phone or WhatsApp: <strong>+923167629731</strong></li>
+  <li><strong>Usama Shafiq</strong>
+    <ul>
+      <li>Email: <strong>usamashafiq1913@gmail.com</strong></li>
+      <li>LinkedIn: <a href="https://linkedin.com/in/usama-shafiq">linkedin.com/in/usama-shafiq</a></li>
+      <li>Fiverr: <a href="https://www.fiverr.com/s/akE9j8W">Fiverr Usama Shafiq</a></li>
+      <li>Phone or WhatsApp: <strong>+923167629731</strong></li>
+    </ul>
+  </li>
+
+  <li><strong>Momina Farooq</strong>
+    <ul>
+      <li>Email: <strong>mominafarooq1913@gmail.com</strong></li>
+      <li>LinkedIn: <a href="https://www.linkedin.com/in/momina-farooq-887aa423b">linkedin.com/in/momina-farooq-887aa423b</a></li>
+    </ul>
+  </li>
 </ul>
 
 <p><strong>✅ Available for:</strong> Remote or Onsite Work • One-Time Projects • Long-Term IT Support • Consulting & Training</p>
 
----
+<hr>
 
 <h2>Let’s Build, Secure, and Grow — Together</h2>
 
-<p>Technology should empower your business — not slow it down. Let’s work together to make your systems faster, your data safer, and your operations smoother. Reach out today and let’s get started.</p>
+<p>Technology should empower your business — not slow it down. Let’s work together to make your systems faster, your data safer, your online presence stronger, and your operations smoother. Reach out today and let’s get started.</p>
