@@ -1,4 +1,4 @@
-<h1>🚀 Hi, We're Your All-in-One IT Solutions Partners</h1>
+<h1>🚀 Welcome to Mr Fixer — Your All-in-One IT Solutions Partner</h1>
 
 <p><strong>Usama Shafiq & Momina Farooq</strong></p>
 <p>
@@ -10,7 +10,7 @@
   <strong>Content Writer & SEO Strategist</strong>
 </p>
 
-<p>We help startups, agencies, and enterprises modernize, secure, and support their IT systems. Whether you're launching a new platform, fixing legacy issues, automating operations, enhancing your online presence, or defending against threats — we deliver reliable, scalable, and intelligent solutions tailored to your business needs.</p>
+<p>At <strong>Mr Fixer</strong>, we help startups, agencies, and enterprises modernize, secure, and support their IT systems. Whether you're launching a new platform, fixing legacy issues, automating operations, enhancing your online presence, or defending against threats — we deliver reliable, scalable, and intelligent solutions tailored to your business needs.</p>
 
 <hr>
 
@@ -128,21 +128,11 @@
 
 <h2>💼 Real Solutions Delivered</h2>
 
-<ul>
-  <li><strong>Rebuilt entire cloud infrastructure</strong> for a startup in Azure — reduced monthly costs by 35% and improved performance.</li>
-  <li><strong>Created custom DevOps pipeline</strong> for a logistics company — automated testing and deployment, reducing errors by 90%.</li>
-  <li><strong>Mitigated ransomware attack</strong> for a small business in less than 24 hours and implemented a disaster recovery plan.</li>
-  <li><strong>Automated business onboarding system</strong> saving 20+ hours per week using CRM workflows and document automation.</li>
-  <li><strong>Developed modern Android apps</strong> tailored for startups and small businesses with sleek design and excellent performance.</li>
-  <li><strong>Optimized SEO and content strategies</strong> for multiple clients, significantly boosting organic search rankings and website traffic.</li>
-  <li><strong>Transformed a slow legacy website</strong> into a lightning-fast modern app with React + Node + secure API integrations.</li>
-  <li><strong>Delivered custom-built Hospital Management Systems</strong> improving healthcare facility efficiency and patient care.</li>
-  <li><strong>Launched CodeKids Hub</strong> helping young learners worldwide develop real-world tech skills through interactive online classes.</li>
-</ul>
+<ul> <li><strong>Modernized Legacy Systems:</strong> Successfully upgraded outdated business infrastructures to fast, scalable, and secure modern cloud environments (Azure, AWS).</li> <li><strong>Cloud Cost Optimization:</strong> Rebuilt and optimized cloud architecture for startups and enterprises — cutting monthly cloud costs by up to 35% while improving performance.</li> <li><strong>End-to-End DevOps Automation:</strong> Designed custom CI/CD pipelines (GitHub Actions, Azure DevOps), reducing deployment errors by over 90% and accelerating software delivery.</li> <li><strong>Business Continuity Solutions:</strong> Developed disaster recovery plans and backup systems ensuring 99.9% uptime and quick recovery from ransomware attacks within 24 hours.</li> <li><strong>Android & Web App Development:</strong> Created sleek, responsive Android apps and full-stack websites (React, Node.js, MongoDB) — improving user engagement and operational efficiency.</li> <li><strong>Hospital Management Systems:</strong> Delivered customized HMS platforms — streamlining patient data management, billing, reporting, and overall clinic/hospital operations securely and compliantly.</li> <li><strong>SEO & Content Strategy:</strong> Implemented on-page and off-page SEO strategies, boosting client websites to the top 10 search results — significantly increasing organic traffic and lead generation.</li> <li><strong>Business Process Automation:</strong> Automated lead generation, invoicing, onboarding workflows using CRM integrations, Power Automate, and Zapier — saving businesses 20+ hours weekly.</li> <li><strong>CodeKids Hub Launch:</strong> Established a global online academy empowering young learners with coding, website development, and critical digital skills through interactive, hands-on classes — no age limits!</li> <li><strong>Helpdesk & IT Support Implementation:</strong> Deployed professional 24/7 Helpdesk services with proactive monitoring and ticketing — ensuring seamless IT operations and instant issue resolution for multiple businesses.</li> <li><strong>Network & System Administration:</strong> Configured and managed secure corporate networks, VPNs, Active Directory, and virtual machines — ensuring safe, stable, and high-performance environments.</li> <li><strong>Cybersecurity Hardening:</strong> Hardened corporate infrastructures by implementing firewalls, endpoint protection, access control policies, vulnerability patching, and compliance standards (GDPR, HIPAA).</li> </ul>
 
 <hr>
 
-<h2>🌟 Why Work With Us?</h2>
+<h2>🌟 Why Work With Mr Fixer?</h2>
 
 <ul>
   <li><strong>Client-Centric:</strong> We adapt to your goals, your tech, and your team.</li>
@@ -155,7 +145,7 @@
 
 <h2>📬 Ready to Solve Your IT Challenges?</h2>
 
-<p>If you're experiencing IT pain points — slow systems, security concerns, unreliable infrastructure, poor online visibility, or you need a trusted tech partner — we’re here to help.</p>
+<p>If you're experiencing IT pain points — slow systems, security concerns, unreliable infrastructure, poor online visibility, or you need a trusted tech partner — <strong>Mr Fixer</strong> is here to help.</p>
 
 <h3>📞 Contact Us Directly</h3>
 
@@ -181,6 +171,6 @@
 
 <hr>
 
-<h2>Let’s Build, Secure, and Grow — Together</h2>
+<h2>Let’s Build, Secure, and Grow — Together with Mr Fixer</h2>
 
-<p>Technology should empower your business — not slow it down. Let’s work together to make your systems faster, your data safer, your online presence stronger, and your operations smoother. Reach out today and let’s get started.</p>
+<p>Technology should empower your business — not slow it down. Let’s work together to make your systems faster, your data safer, your online presence stronger, and your operations smoother. Reach out to <strong>Mr Fixer</strong> today and let’s get started!</p>
