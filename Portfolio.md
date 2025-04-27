@@ -1,31 +1,16 @@
-<!-- Hero Section Container -->
-<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; padding: 40px; background-color: #f5f5f5; border-radius: 10px;">
+<h1> Welcome to Mr Fixer — Your All-in-One IT Solutions Partner</h1>
 
-  <!-- Left Section: Textual Content -->
-  <div style="flex: 1; min-width: 300px; padding-right: 20px;">
-    <h1 style="font-size: 2.5em; color: #2c3e50; margin-bottom: 20px;">🚀 Welcome to Mr. Fixer — Your All-in-One IT Solutions Partner</h1>
+<p><strong>Usama Shafiq & Momina Farooq</strong></p>
+<p>
+  <strong>Full-Stack Developer</strong> |
+  <strong>Cybersecurity Expert</strong> |
+  <strong>Cloud & DevOps Engineer</strong> |
+  <strong>Business Automation Specialist</strong> |
+  <strong>Android & Web Developer</strong> |
+  <strong>Content Writer & SEO Strategist</strong>
+</p>
 
-    <p style="font-size: 1.2em; color: #34495e; margin-bottom: 10px;"><strong>Usama Shafiq & Momina Farooq</strong></p>
-    <p style="font-size: 1em; color: #7f8c8d; line-height: 1.6;">
-      <strong>Full-Stack Developer</strong> |
-      <strong>Cybersecurity Expert</strong> |
-      <strong>Cloud & DevOps Engineer</strong> |
-      <strong>Business Automation Specialist</strong> |
-      <strong>Android & Web Developer</strong> |
-      <strong>Content Writer & SEO Strategist</strong>
-    </p>
-
-    <p style="font-size: 1em; color: #7f8c8d; line-height: 1.6; margin-top: 20px;">
-      At <strong>Mr. Fixer</strong>, we empower startups, agencies, and enterprises to modernize, secure, and support their IT systems. Whether you're launching a new platform, resolving legacy issues, automating operations, enhancing your online presence, or defending against threats — we deliver reliable, scalable, and intelligent solutions tailored to your business needs.
-    </p>
-  </div>
-
-  <!-- Right Section: Logo Image -->
-  <div style="flex: 0 0 auto; text-align: right;">
-    <img src="https://yourdomain.com/path-to-your-logo.png" alt="Mr. Fixer Logo" style="max-width: 250px; height: auto; border-radius: 10px;">
-  </div>
-
-</div>
+<p>At <strong>Mr Fixer</strong>, we help startups, agencies, and enterprises modernize, secure, and support their IT systems. Whether you're launching a new platform, fixing legacy issues, automating operations, enhancing your online presence, or defending against threats — we deliver reliable, scalable, and intelligent solutions tailored to your business needs.</p>
 
 <hr>
 
