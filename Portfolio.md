@@ -1,4 +1,4 @@
-<h1> Welcome to Mr Fixer — Your All-in-One IT Solutions Partner</h1>
+<h1> Welcome to Mr Fixer Your All-in-One IT Solutions Partner</h1>
 
 <p><strong>Usama Shafiq & Momina Farooq</strong></p>
 <p>
